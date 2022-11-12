@@ -10,9 +10,10 @@ I worked a few weeks (evenings) on some code I now use in proicution to post to 
 Basically these are the scripts / libraries
 
 I post with the scripts:
+`
 ./mastodon_post.campaign.py  #posts one mastodon toot with one image
 ./mastodon_post4picspecies.py  # posts one mastodon tooth with 4 images
-
+`
 
 these two scripts use these libs:
 import hcmastodonlib  # has functions to post to mastodon
