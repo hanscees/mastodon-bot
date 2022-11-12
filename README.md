@@ -4,7 +4,7 @@ python examples to make a mastodon bot with autoposting
 for my website / tree project https://www.bomengids.nl I like to auto-post content to social media.
 While all the python libraries are there typically making code to use it takes some time.
 
-I worked a few weeks (evenings) on some code I now use in proicution to post to https://campaign.openworlds.info/@bomengids.nl
+I worked a few weeks (evenings) on some code I now use in proicution to post to https://campaign.openworlds.info/@bomengidsnl
 
 
 Basically these are the scripts / libraries
